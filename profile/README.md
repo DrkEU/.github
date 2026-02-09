@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ##  Willkommen im (private) Repository des DRK Kreisverband Euskirchen e.V.
 
 
