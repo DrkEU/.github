@@ -1,4 +1,4 @@
-##  Willkommen im (private) Repository des DRK Kreisverband Euskirchen e.V.
+##  Willkommen im GitHub des DRK Kreisverband Euskirchen e.V.
 
 
 <!--
